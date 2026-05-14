@@ -4,13 +4,13 @@ import { pricingPlans } from "@/src/constants/dataSection";
 function PricingSection() {
   return (
     <section
-      className="relative bg-gradient-to-br from-blue-50 via-cyan-50/50 to-blue-50 section-padding"
+      className="relative bg-gradient-to-br from-blue-50 via-cyan-50/50 to-blue-50 py-14 px-4 sm:px-6 lg:px-8"
       id="bao-gia"
     >
       {/* Background Pattern */}
       <div className="absolute inset-0 bg-pattern-grid text-blue-300 opacity-20" />
 
-      <div className="relative maxv-container">
+      <div className="relative mx-auto max-w-[1180px]">
         {/* Section Header */}
         <div className="mb-16 text-center animate-in fade-in slide-in-from-bottom-4 duration-700">
           <h2 className="text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl md:text-5xl">

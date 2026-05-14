@@ -12,8 +12,8 @@ function FAQSection() {
   };
 
   return (
-    <section className="bg-white section-padding" id="faq">
-      <div className="maxv-container">
+    <section className="bg-white py-14 px-4 sm:px-6 lg:px-8" id="faq">
+      <div className="mx-auto max-w-[1180px]">
         {/* Section Header */}
         <div className="mb-10 text-center">
           <h2 className="text-2xl font-bold text-slate-900 sm:text-3xl">

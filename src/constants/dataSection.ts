@@ -163,7 +163,7 @@ export const featuredModules = [
 export const customerTestimonials = [
   {
     quote:
-      "Maxx giúp công ty tôi giảm hơn 60% thời gian xử lý hóa đơn và lập báo cáo. Giao diện dễ dùng, nhân viên kế toán mới cũng làm quen rất nhanh.",
+      "Maxv giúp công ty tôi giảm hơn 60% thời gian xử lý hóa đơn và lập báo cáo. Giao diện dễ dùng, nhân viên kế toán mới cũng làm quen rất nhanh.",
     name: "Nguyễn Thị Hương",
     role: "Kế toán trưởng - Công ty TNHH An Phát",
     company: "An Phát",

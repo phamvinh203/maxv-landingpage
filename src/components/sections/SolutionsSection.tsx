@@ -21,7 +21,7 @@ export default function SolutionsSection() {
     <section className="bg-white px-4 pb-9 pt-2 sm:px-6 lg:px-8">
       <div className="mx-auto max-w-[1180px]">
         <h2 className="text-center text-[22px] font-bold leading-8 tracking-tight text-slate-950">
-          <span className="text-blue-600">Maxx Accounting</span> - Giải pháp
+          <span className="text-blue-600">Maxv Accounting</span> - Giải pháp
           toàn diện cho doanh nghiệp
         </h2>
 

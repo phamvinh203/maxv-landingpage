@@ -8,7 +8,7 @@ export default function CustomerTestimonialsSection() {
       <div className="mx-auto max-w-[1180px]">
         <h2 className="text-center text-[22px] font-extrabold leading-8 tracking-tight text-slate-950">
           Khách hàng nói gì về{" "}
-          <span className="text-blue-600">Maxx Accounting?</span>
+          <span className="text-blue-600">Maxv Accounting?</span>
         </h2>
 
         <div className="mt-5 grid gap-5 md:grid-cols-3">

@@ -19,7 +19,7 @@ export default function ReasonsSection() {
               <iframe
                 className="h-full w-full"
                 src="https://www.youtube.com/embed/DcRmx9KwS0w"
-                title="Trải nghiệm phần mềm kế toán online Maxx Accounting"
+                title="Trải nghiệm phần mềm kế toán online Maxv Accounting"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 referrerPolicy="strict-origin-when-cross-origin"
                 allowFullScreen
@@ -30,7 +30,7 @@ export default function ReasonsSection() {
           <div className="lg:pl-4">
             <h2 className="text-3xl font-extrabold leading-tight tracking-tight text-slate-950">
               Trải nghiệm{" "}
-              <span className="text-blue-600">Maxx Accounting</span>
+              <span className="text-blue-600">Maxv Accounting</span>
               <br />
               trong 3 phút
             </h2>

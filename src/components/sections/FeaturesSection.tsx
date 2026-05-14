@@ -67,15 +67,7 @@ export default function FeaturesSection() {
           </div>
         </div>
 
-        <div className="mt-4 flex justify-center">
-          <Button
-            className="h-9 min-w-48 rounded-lg border border-blue-500 bg-white px-7 text-sm font-bold text-blue-600 hover:bg-blue-50"
-            variant="outline"
-            asChild
-          >
-            <a href="#tinh-nang">Xem tất cả tính năng</a>
-          </Button>
-        </div>
+        
       </div>
     </section>
   );
