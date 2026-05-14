@@ -1,5 +1,6 @@
 import Footer from "@/src/components/layout/Footer";
 import Header from "@/src/components/layout/Header";
+import JsonLd from "@/src/components/seo/JsonLd";
 import CustomerTestimonialsSection from "@/src/components/sections/CustomerTestimonialsSection";
 import FAQSection from "@/src/components/sections/FAQSection";
 import FeaturesSection from "@/src/components/sections/FeaturesSection";
@@ -14,6 +15,7 @@ import TrustedCompaniesSection from "@/src/components/sections/TrustedCompaniesS
 export default function Home() {
   return (
     <main>
+      <JsonLd />
       <Header />
       <HeroSection />
       <TrustedCompaniesSection />

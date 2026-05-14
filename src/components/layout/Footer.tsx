@@ -217,10 +217,7 @@ function Footer() {
                   />
                 </svg>
                 <span className="text-sm text-white/75">
-                  <p>
-                    Tầng 2, số 180 phố Hoàng
-                    Ngân, Phường Yên Hòa, Thành phố Hà Nội, Việt Nam.
-                  </p>
+                  Tầng 2, số 180 phố Hoàng Ngân, Phường Yên Hòa, Thành phố Hà Nội, Việt Nam.
                 </span>
               </li>
             </ul>
