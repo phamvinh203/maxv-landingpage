@@ -58,7 +58,7 @@ function Header() {
           </nav>
 
           <div className="hidden md:flex">
-            <Button size="sm" asChild>
+            <Button size="sm" asChild className="bg-blue-600 text-white hover:bg-blue-700">
               <a href="#dang-ky" onClick={closeMenu}>
                 Dùng thử ngay
               </a>
